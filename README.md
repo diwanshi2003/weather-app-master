@@ -28,10 +28,14 @@ When you run this application, you'll see a web page with a title, a form to inp
 In conclusion, the development of a weather forecasting system using ReactJS offers numerous advantages in terms of user interface interactivity, real-time updates, and seamless integration with other web technologies. By harnessing the power of ReactJS, developers can create dynamic and responsive weather applications that provide accurate forecasts to users, enhancing their experience and enabling them to make informed decisions based on current and predicted weather conditions.
 
 This React code creates a weather application that fetches weather data from the OpenWeatherMap API based on user input (city and country) and displays the retrieved information. Here's a conclusion for this code: 
-1.Component Structure: The application is structured into several components: Title, Form, and Weather. These components handle specific aspects of the application's interface. API Integration: The getWeather method is responsible for fetching weather data from the OpenWeatherMap API. It constructs the API URL based on the user input (city and country), makes a GET request using fetch, and then updates the component state with the retrieved weather information. 
+1.Component Structure: The application is structured into several components: Title, Form, and Weather. These components handle specific aspects of the application's interface. API Integration: The getWeather method is responsible for fetching weather data from the OpenWeatherMap API. It constructs the API URL based on the user input (city and country), makes a GET request using fetch, and then updates the component state with the retrieved weather information.
+
 2.State Management: The component state holds weather-related data such as temperature, city, country, humidity, description, wind degree, wind speed, and error messages. The state is updated accordingly based on the API response and user input. 
+
 3.Error Handling: The code includes error handling for cases where the API request fails or the user input is invalid. It updates the state with appropriate error messages to be displayed to the user. 
+
 4.Component Rendering: The render method renders the UI components (Title, Form, and Weather) along with their respective props based on the component state.
+
 5.Styling: The application uses CSS for styling, with classes like wrapper, main, container, row, title-container, and form-container to structure the layout.
 Overall, this code demonstrates the implementation of a basic React weather application with API integration, state management, error handling, and component composition. It provides a simple yet effective way to fetch and display weather information based on user input.
 
