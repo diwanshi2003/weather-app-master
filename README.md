@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/81f987b9-25be-4be4-9877-950804e0cf3b)# weather-app-master
+# weather-app-master
 Weather forecasting is basically the prediction of the future weather and for the specified geographical location.Weather conditions are changing very rapidly around the world and it affects all the major areas. Weather forecasts become very essential in today’s world. Today we are heavily depend on weather forecasts whether it is from industrial to agriculture, from travelling to daily commuting, anything where weather plays a role. For the easy and seamless mobility it becomes very important that we predict the weather correctly and ensure that it has no error. The Scientists are still in working process of overcoming the limitations of computer models to improvise the accuracy rate of prediction through recent technologies of adding intelligence to machine. To add intelligence for system as human we have given a study platform called Artificial Neural networks, Machine learning, rule based techniques where there exist ample impetus to study the weather occurrence and prediction.
 
 Weather forecasting systems play a vital role in providing valuable insights into upcoming weather conditions, helping individuals, businesses, and governments make informed decisions. These systems utilize a combination of historical weather data, current observations, mathematical models, and computer simulations to generate forecasts for different timeframes, ranging from short-term to long-term predictions.
@@ -15,6 +15,12 @@ The primary goal of a weather forecasting app built using ReactJS is to provide 
 By focusing on these goals, a weather forecasting app using ReactJS can provide users with a valuable and indispensable tool for staying informed and prepared for weather-related events in their daily lives.
 # output:
 When you run this application, you'll see a web page with a title, a form to input city and country, and a section to display weather information. After entering a valid city and country and submitting the form, the weather data for that location will be fetched from the OpenWeatherMap API and displayed on the page. 
+
+![image](https://github.com/user-attachments/assets/3aa50140-e766-4c1c-9652-a371248fd401)
+
+ this particular output is predicting the current weather of India.
+
+
 
 
 
